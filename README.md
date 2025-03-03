@@ -1,9 +1,14 @@
 # fucking build this mert!
 
+**currently:**
+- nightwatch -> a vscode extension of leaderboard of your friends coding time. – similar to nightclub9
+- dash -> blazing fast dictionary app
+
+---
 1. summaries of interested subreddits. for 1-7 days?
 2. safari/chrome extension for tts using kokoro (Eric's hackathon idea!)
-3. nightwatch -> a vscode extension of leaderboard of your friends coding time. – similar to nightclub9
-4. dash -> blazing fast dictionary app
+3. my own safari extension?
+4. my own apple-watch application?
 5. autoscalable text to speech api with paywall and distributed engine using ray cluster
 6. inbox-fucked-up -> email subscription detection?
 7. log summarizer using large-context llms, why the program crashed?
@@ -31,5 +36,3 @@
 29. building a video streaming application for streaming tv?
 30. scalable chat application on websocket.
 31. my own oh-my-zsh plugin.
-32. my own apple-watch application?
-33. my own safari extension?
